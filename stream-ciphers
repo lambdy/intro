@@ -1,0 +1,5 @@
+Included python scripts have similar layouts with headers for ease of understanding. 
+Conciseness of code was not a priority for this project – functions exist that are only run once. 
+This is done for two main reasons: 
+  continuity between scripts (one script might run a function once while the other script runs the same function more than once), 
+  and to abstract certain algorithms to ensure their effectiveness.
