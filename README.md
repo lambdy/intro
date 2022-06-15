@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Winiata Lambert
 - 👀 I am a prospective cyber security professional
 - 🌱 I’m currently studying at Edith Cowan University
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me on LinkedIn https://www.linkedin.com/in/winiata-lambert/
 
 <!---
 winiatal/winiatal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
