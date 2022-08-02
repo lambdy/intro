@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Winiata Lambert
-- 👀 I am a prospective cyber security professional
+- 👀 I am an aspiring cyber security professional
 - 🌱 I’m currently studying at Edith Cowan University
 - 📫 You can reach me on LinkedIn https://www.linkedin.com/in/winiata-lambert/
 
